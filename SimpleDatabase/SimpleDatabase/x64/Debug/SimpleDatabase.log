@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Daniil\Programs\SimpleDatabase\Source.cpp(414,20): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Daniil\Programs\SimpleDatabase\Source.cpp(426,60): warning C4098: leaf_node_split_and_insert: функция типа "void", возвращающая значение
+D:\Daniil\Programs\SimpleDatabase\Source.cpp(632,1): warning C4715: internal_node_find: значение возвращается не при всех путях выполнения
+D:\Daniil\Programs\SimpleDatabase\Source.cpp(352,1): warning C4715: get_node_max_key: значение возвращается не при всех путях выполнения
+  SimpleDatabase.vcxproj -> D:\Daniil\Programs\SimpleDatabase\x64\Debug\SimpleDatabase.exe
